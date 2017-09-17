@@ -270,6 +270,10 @@ video {
   border: none;
 }
 
+#thesis h2 {
+  padding: 1.33rem 0;
+}
+
 /* Footer Styling */
 
 footer {
@@ -286,7 +290,7 @@ footer a {
 
 /* Mobile Responsive Styling - Header */
 
-@media only screen and (max-width: 900px){
+@media only screen and (max-width: 1000px){
 
   /* General Styling */
 
