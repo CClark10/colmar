@@ -262,7 +262,7 @@ header .weight {
 }
 
 #thesis h2 {
-  padding: 1.33rem 0;
+padding: 1.33rem 0;
 }
 
 
@@ -274,6 +274,8 @@ video {
 #thesis .column {
   border: none;
 }
+
+
 
 /* Footer Styling */
 
@@ -433,6 +435,11 @@ footer a {
 
 #thesis .left-column {
   padding-bottom: 1.33rem;
+}
+
+#thesis h2,
+#thesis p {
+  padding-left: 1.33rem;
 }
 
 .hidden {
