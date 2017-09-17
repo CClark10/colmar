@@ -261,6 +261,11 @@ header .weight {
   display: flex;
 }
 
+#thesis h2 {
+  padding: 1.33rem 0;
+}
+
+
 video {
   width: 100%;
   height: auto;
@@ -268,10 +273,6 @@ video {
 
 #thesis .column {
   border: none;
-}
-
-#thesis h2 {
-  padding: 1.33rem 0;
 }
 
 /* Footer Styling */
